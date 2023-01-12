@@ -27,6 +27,12 @@ img {
   margin-right: 10px;
 }
 
+span {
+  font-style: italic;
+  font-weight: 700;
+  margin-right: 10px;
+}
+
 .country-info__wrapper {
     display: flex;
       align-items: center;
@@ -37,11 +43,7 @@ img {
   font-size: 22px;
 }
 
-span {
-font-style: italic;
-font-weight: 700;
-margin-right: 10px;
-}
+
 
 .country-list_item {
   display: flex;
